@@ -29,7 +29,7 @@
 
 - **Back-end**:
 
-    <h1 align="auto"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="35"><b> Java </b><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="35"><b> Python </b><img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="35"><b> JavaScript </b></h1>
+    <h1 align="auto"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="35"><b> Java </b><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="35"><b> Python </b></h1>
 
 <br>   
     
