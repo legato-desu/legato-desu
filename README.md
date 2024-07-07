@@ -12,7 +12,7 @@
 
 <br>
 
-- A Back-end developer
+- A Back-end programmer
 - Play musical instruments in my free time
 - A self-taught student of the Japanese language
 - Active student in software engineering
