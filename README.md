@@ -29,24 +29,24 @@
 
 - **Back-end**:
 
-    <h1 align="auto"><img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="35"><b> Java </b><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="35"><b> Python </b></h1>
-
+  <img width="80" height="80" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
+  <img width="70" height="70" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+  
 <br>   
     
 - **Front-End**:
 
-   ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-   ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-
+  <img width="75" height="75" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+  <img width="75" height="75" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+   
 <br>
 
 - **Tools**:
 
-    ![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-    ![GitHub](https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000)
-    ![Google](https://img.icons8.com/?size=100&id=17949&format=png&color=000000)
-    ![Visual Studio Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
-    ![NetBeans](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000)
+    <img width="70" height="70" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
+    <img width="70" height="70" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
+    <img width="70" height="70" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+    <img width="70" height="70" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
 
 <br>
 
@@ -54,4 +54,4 @@
 
 -----
 
-## <b>🉑... よろしくお願いします...🖥️</b>
+## <b><img width="30" height="30" src="https://img.icons8.com/emoji/48/wind-chime.png" alt="wind-chime"/>... ありがとう...<img width="30" height="30" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/external-japan-traveling-xnimrodx-lineal-color-xnimrodx.png" alt="external-japan-traveling-xnimrodx-lineal-color-xnimrodx"/></b>
