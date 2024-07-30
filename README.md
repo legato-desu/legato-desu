@@ -46,7 +46,7 @@
     <img width="70" height="70" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
     <img width="70" height="70" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
     <img width="70" height="70" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-    <img width="70" height="70" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>
+     <!--*<img width="70" height="70" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>--> 
 
 <br>
 
