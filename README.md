@@ -16,7 +16,7 @@
 - Play musical instruments in my free time
 - A self-taught student of the Japanese language
 - Active student in software engineering
-- I’m currently open for an Intern or a new job opportunity, this is my CV (https://acortar.link/J3J5Bv)
+- I’m currently open for an Intern or a new job opportunity, this is my CV (https://david-cyber.netlify.app/)
 
 <br><br>
 
