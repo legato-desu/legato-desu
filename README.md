@@ -1,57 +1,57 @@
-<h1 align="center"><b>Hello, i'm David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, Soy David </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Back-End+Programmer,;Student+engineering+software,;Active+Learner;"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Apasionado;Estudiante+Activo;Aprendedor+Constante;Creativo"></a>
 
 </p>
 
-<br>
+## Sobre Mi: 🧑‍💻
 
-## <picture><img src = "https://github.com/legato-desu/MyWeb/blob/main/img/ico.png" width = 35px></picture> **About me:**
+- Apasionado por la ciberseguridad y comprometido con el aprendizaje continuo para destacar como profesional en este campo.
+- En mi tiempo libre, interpreto instrumentos musicales, como la guitarra y el piano. Tambien disfruto aprendiendo sobre nuevas tecnologías.
+- Idiomas que domino:
+  - **Japonés** (Avanzado): Me ha ayudado a desarrollar disciplina, paciencia y capacidad de análisis al abordar problemas complejos.
+  - **Francés** (Intermedio): Refuerza mi pensamiento estructurado y amplía mi habilidad para comunicarme en entornos multiculturales.
+  - **Inglés** (Básico): Me permite consumir documentación técnica, participar en comunidades internacionales y mantenerme actualizado en el sector tecnológico.
+- Actualmente curso Ingeniería de Software en la Universidad de Cundinamarca.
 
+---
 
-<br>
+## Conocimiento ⚙️
 
-- A Back-end programmer
-- Play musical instruments in my free time
-- A self-taught student of the Japanese language
-- Active student in software engineering
-- I’m currently open for an Intern or a new job opportunity, this is my CV (https://david-cyber.netlify.app/)
+- ### Backend:
+  - **Java:** Intermedio 
+  - **Python:** Avanzado
+- ### Frontend:
+  - **HTML:** Básico 
+  - **CSS:** Básico
+ 
+- ### Frameworks:
+    - **Flask:** Básico
 
-<br><br>
+- ### Herramientas:
+  - **Git:** Básico 
+  - **Apache Netbeans:** Intermedio
+  - **Visual Studio Code:** Intermedio
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+ ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Knowledge</b>
-<br>
+ ## Objetivo profesional 🚀  
+Mi meta es convertirme en un experto en ciberseguridad, desarrollando soluciones innovadoras que protejan sistemas y datos críticos. Además, estoy enfocado en mejorar mis habilidades en arquitectura limpia, creando software escalable, mantenible y eficiente. 
 
-<p align="center">
+Me interesa aprender más sobre:
+- Análisis de vulnerabilidades.  
+- Penetration testing.  
+- Seguridad en redes y aplicaciones web.
+- Implementación de principios de arquitectura limpia en sistemas de software.
 
-- **Back-end**:
+Estoy abierto a nuevas oportunidades, especialmente en roles que me permitan combinar programación con ciberseguridad.
 
-  <img width="80" height="80" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-  
-<br>   
-    
-- **Front-End**:
+---
 
-  <img width="75" height="75" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="75" height="75" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-   
-<br>
+## Proyectos 📂  
+*(Pronto organizaré mis proyectos destacados aquí con enlaces directos).*
 
-- **Tools**:
+---
 
-    <img width="70" height="70" src="https://img.icons8.com/glyph-neue/64/FFFFFF/github.png" alt="github"/>
-    <img width="70" height="70" src="https://img.icons8.com/color/48/apache-netbeans.png" alt="apache-netbeans"/>
-    <img width="70" height="70" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-     <!--*<img width="70" height="70" src="https://img.icons8.com/color/48/android-studio--v2.png" alt="android-studio--v2"/>--> 
-
-<br>
-
-</p>
-
------
-
-## <b><img width="30" height="30" src="https://img.icons8.com/emoji/48/wind-chime.png" alt="wind-chime"/>... ありがとう...<img width="30" height="30" src="https://img.icons8.com/external-xnimrodx-lineal-color-xnimrodx/64/external-japan-traveling-xnimrodx-lineal-color-xnimrodx.png" alt="external-japan-traveling-xnimrodx-lineal-color-xnimrodx"/></b>
+_**“Tu cartera es proporcional al tamaño de tus conocimientos.”**_  
